@@ -2,6 +2,8 @@
 # 📋 Sistema de Cadastro de Clientes em React
 
 ![Preview da Aplicação](preview.png) <img width="722" height="835" alt="image" src="https://github.com/user-attachments/assets/2e619714-eb77-451b-b422-594baa9159ef" />
+<img width="750" height="648" alt="image" src="https://github.com/user-attachments/assets/a35483e3-cb09-4ac8-8d47-efb24cd1a823" />
+<img width="1177" height="767" alt="image" src="https://github.com/user-attachments/assets/66bc9ea3-a2df-4703-94c8-ebb1be6b95f0" />
 
 
 Um sistema simples para gerenciamento de clientes com persistência local, desenvolvido com React e Vite.
